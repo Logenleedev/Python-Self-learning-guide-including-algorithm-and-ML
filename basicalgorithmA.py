@@ -1,23 +1,26 @@
 
-
+#    0  1  2  3  4  5  6  7  8  9  10 
 A = [64,25,12,22,11,37,98,47,58,20,98]
 
 '''
-Selection Sort
+Selection Sort O(n^2)
 '''
 def SelectionSort(Array):
     for i in range(len(Array)):
         for j in range(i+1,len(Array)):
             if Array[i]>Array[j]:
                 Array[i],Array[j] = Array[j],Array[i]
+    return Array
+
+
 
             
 '''
-Bubble Sort
+Bubble Sort O(n^2) min -> max
 '''
 
 def bubbleSort(nlist):
-    for passnum in range(len(nlist)-1,0,-1):
+    for passnum in range(len(nlist)-1):
         for i in range(passnum):
             if nlist[i]>nlist[i+1]:
                 temp = nlist[i]
@@ -25,7 +28,7 @@ def bubbleSort(nlist):
                 nlist[i+1] = temp
 
 '''
-Insertion Sort
+Insertion Sort 
 '''
 def insertionSort(arr): 
   
@@ -57,7 +60,7 @@ def linearSearch(arr,n):
 
 
 '''
-# Mergew Sort
+# Merge Sort
 
 def mergeSort(alist):
     print("Splitting ",alist)
