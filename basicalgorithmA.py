@@ -20,7 +20,7 @@ Bubble Sort O(n^2) min -> max
 '''
 
 def bubbleSort(nlist):
-    for passnum in range(len(nlist)-1):
+    for passnum in range(len(nlist)-1,0,-1):
         for i in range(passnum):
             if nlist[i]>nlist[i+1]:
                 temp = nlist[i]
