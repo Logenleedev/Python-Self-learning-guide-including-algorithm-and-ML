@@ -13,6 +13,9 @@ def SelectionSort(Array):
     return Array
 
 
+#Best case: O(n^2)
+#Average case: O(n^2)
+#Worse case: O(n^2)
 
             
 '''
@@ -27,6 +30,11 @@ def bubbleSort(nlist):
                 nlist[i] = nlist[i+1]
                 nlist[i+1] = temp
 
+#Best case: O(n)
+#Average case: O(n^2)
+#Worse case: O(n^2)
+		
+		
 '''
 Insertion Sort 
 '''
@@ -47,6 +55,11 @@ def insertionSort(arr):
         arr[j+1] = key 
 
 
+#Best case: O(n)
+#Average case: O(n^2)
+#Worse case: O(n^2)
+	
+	
 '''
 Linear Search
 '''
@@ -57,6 +70,10 @@ def linearSearch(arr,n):
             return i+1
     return -1
 
+
+#Best case: O(1)
+#Average case: O(n)
+#Worse case: O(n)
 
 
 '''
@@ -105,6 +122,10 @@ print(alist)
 '''
 
 
+#Best case: O(nlog(n))
+#Average case: O(nlog(n))
+#Worse case: O(nlog(n))
+
 '''
 Binary Search
 '''
@@ -125,6 +146,9 @@ def binarySearch(alist, item):
 
 
 
+#Best case: O(1)
+#Average case: O(n)
+#Worse case: O(n)
 	
 # for i in range(len(A)):
 #     print("%d" %A[i])
