@@ -13,10 +13,11 @@ Reference Material:
 ```
 [Leetcode Link](https://leetcode.com/riederleedev/)
 
-| Folder name | Algorithm contain |
+| Folder name | Algorithm contain |https://leetcode.com/problems/reverse-integer/
 | :-- | :--|
 |   Searching&SortingAlgorithm  |   Selection Sort % Bubble Sort % Insertion Sort % Merge Sort % Linear Search % Binary Search|
 |    removeDuplicate | [Leetcode question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
 | BuyAndSell Stock | Leetcode Question|
 | Simple Nums | Leetcode Question |
 | Palindrome | Interview Question |
+| reverse Integer | [Leetcode question](https://leetcode.com/problems/reverse-integer/) |
