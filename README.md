@@ -13,7 +13,7 @@ Reference Material:
 ```
 [Leetcode Link](https://leetcode.com/riederleedev/)
 
-| Folder name | Algorithm contain |
+| File name | Algorithm contain |
 | :-- | :--|
 | Searching&SortingAlgorithm  |   Selection Sort % Bubble Sort % Insertion Sort % Merge Sort % Linear Search % Binary Search|
 | removeDuplicate | [Leetcode question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
@@ -21,3 +21,4 @@ Reference Material:
 | Simple Nums | Leetcode Question |
 | Palindrome | Interview Question |
 | reverse Integer | [Leetcode question](https://leetcode.com/problems/reverse-integer/) |
+| quickSort | quick sort |
