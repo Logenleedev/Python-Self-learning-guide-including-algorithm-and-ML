@@ -22,3 +22,4 @@ Reference Material:
 | Palindrome | Interview Question |
 | reverse Integer | [Leetcode question](https://leetcode.com/problems/reverse-integer/) |
 | quickSort | quick sort |
+| 0155 minStack | [Leetcode question](https://leetcode.com/problems/min-stack/description/) |
