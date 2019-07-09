@@ -17,8 +17,8 @@ Reference Material:
 | :-- | :--|
 | Searching&SortingAlgorithm  |   Selection Sort % Bubble Sort % Insertion Sort % Merge Sort % Linear Search % Binary Search|
 | removeDuplicate | [Leetcode question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
-| BuyAndSell Stock | Leetcode Question|
-| Simple Nums | Leetcode Question |
+| 0121 BuyAndSell Stock | Leetcode Question|
+| 0136 Single Nums | Leetcode Question |
 | Palindrome | Interview Question |
 | reverse Integer | [Leetcode question](https://leetcode.com/problems/reverse-integer/) |
 | quickSort | quick sort |
