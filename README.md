@@ -8,16 +8,16 @@
 
 Reference Material:
 
-1 [Leetcode](https://leetcode.com)
-2 [Hackerearth](https://www.hackerearth.com)
-3 [Hackerank](http://hackerrank.com/)
-4 [project euler](https://projecteuler.net/problems)
-5 [top coder](http://topcoder.com)
-6 [Stanford CS 41](https://stanfordpython.com)
-7 [Youtube Algorithm Channel](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
-8 [Codesignal - interview tool](https://codesignal.com/)
-9 [Sequoia Tree - UCBerkely CS self learining book](https://sequoia-tree.github.io/)
-10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar)
+1 [Leetcode](https://leetcode.com) <br />
+2 [Hackerearth](https://www.hackerearth.com)  <br />
+3 [Hackerank](http://hackerrank.com/) <br />
+4 [project euler](https://projecteuler.net/problems) <br />
+5 [top coder](http://topcoder.com) <br />
+6 [Stanford CS 41](https://stanfordpython.com) <br />
+7 [Youtube Algorithm Channel](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) <br />
+8 [Codesignal - interview tool](https://codesignal.com/)<br />
+9 [Sequoia Tree - UCBerkely CS self learining book](https://sequoia-tree.github.io/) <br />
+10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar) <br />
 
 
 [Leetcode Link](https://leetcode.com/riederleedev/)
