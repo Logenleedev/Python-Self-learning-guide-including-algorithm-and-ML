@@ -3,13 +3,22 @@
 > This Repo is created because I want to share some algorithm practice experience. 
 
 ```
-All Algorithm Practice = Leetcode + This repo
+All Algorithm Practice 
 
 
 Reference Material:
 
-1 Hackerank
-2 Hackerearth
+1 [Leetcode](https://leetcode.com)
+2 [Hackerearth](https://www.hackerearth.com)
+3 [Hackerank](http://hackerrank.com/)
+4 [project euler](https://projecteuler.net/problems)
+5 [top coder](http://topcoder.com)
+6 [Stanford CS 41](https://stanfordpython.com)
+7 [Youtube Algorithm Channel](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
+8 [Codesignal - interview tool](https://codesignal.com/)
+9 [Sequoia Tree - UCBerkely CS self learining book](https://sequoia-tree.github.io/)
+10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar)
+
 ```
 [Leetcode Link](https://leetcode.com/riederleedev/)
 
