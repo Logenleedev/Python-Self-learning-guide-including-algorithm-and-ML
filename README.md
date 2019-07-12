@@ -1,12 +1,20 @@
-# Algorithm
+# Developer Guide for everyone
 
 > This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code. 
 
 
+## Featured Personal Project by 10,000+ developers:
+
+> Digital Media Platform for everyone. Topic range from *Technology*, *design*, *art*, and *enttertainment*
+
+**Website**: <br />
+https://aloha-pro.herokuapp.com/
+
+**Join Slack Channel**: <br />
+https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY0ZGFiYzQ0ZGZmMmY1NjdjZTIyM2MwYWYwZTIzOTYxMDc0Y2Q2YzQzYWExYzI3OWJlOTdhMzgyM2EzNDk
 
 
-
-Reference Material:
+## Reference Material:
 
 1 [Leetcode](https://leetcode.com) <br />
 2 [Hackerearth](https://www.hackerearth.com)  <br />
