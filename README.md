@@ -24,3 +24,4 @@ Reference Material:
 | quickSort | quick sort |
 | 0155 minStack | [Leetcode question](https://leetcode.com/problems/min-stack/description/) |
 | Hanoi Tower | [Interview Question](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) |
+| 0169 majorityNum (3 solution contain)| [Leetcode question](https://leetcode.com/problems/majority-element/) |
