@@ -1,9 +1,9 @@
 # Algorithm
 
-> This Repo is created because I want to share some algorithm practice experience. 
+> This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code. 
 
-```
-All Algorithm Practice 
+
+
 
 
 Reference Material:
@@ -19,7 +19,7 @@ Reference Material:
 9 [Sequoia Tree - UCBerkely CS self learining book](https://sequoia-tree.github.io/)
 10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar)
 
-```
+
 [Leetcode Link](https://leetcode.com/riederleedev/)
 
 | File name | Algorithm contain |
