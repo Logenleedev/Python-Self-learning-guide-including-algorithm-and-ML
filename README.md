@@ -20,7 +20,7 @@ Reference Material:
 10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar) <br />
 
 
-[Leetcode Link](https://leetcode.com/riederleedev/)
+
 
 | File name | Algorithm contain |
 | :-- | :--|
