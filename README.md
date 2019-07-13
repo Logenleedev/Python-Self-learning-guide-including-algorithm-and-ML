@@ -3,6 +3,14 @@
 > This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code. 
 
 
+## Modern Roadmap for Front-end Developer
+
+![](https://miro.medium.com/max/2000/1*_EfUP-q18EfebxPgZ6BCbA.png)
+
+## Modern Roadmap for Back-end Developer
+
+![](https://miro.medium.com/max/2000/1*8sjdGRThKBI46WOqoaYmXg.png)
+
 ## Featured Personal Project by 10,000+ developers:
 
 > Digital Media Platform for everyone. Topic range from *Technology*, *design*, *art*, and *enttertainment*
