@@ -50,3 +50,4 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 | 0155 minStack | [Leetcode question](https://leetcode.com/problems/min-stack/description/) |
 | Hanoi Tower | [Interview Question](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) |
 | 0169 majorityNum (3 solution contain)| [Leetcode question](https://leetcode.com/problems/majority-element/) |
+| 0283 move zeros(2 solution contain) | [Leetcode question](https://leetcode.com/problems/move-zeroes/) |
