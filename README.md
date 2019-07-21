@@ -22,7 +22,7 @@ https://aloha-pro.herokuapp.com/
 https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY0ZGFiYzQ0ZGZmMmY1NjdjZTIyM2MwYWYwZTIzOTYxMDc0Y2Q2YzQzYWExYzI3OWJlOTdhMzgyM2EzNDk
 
 
-## Reference Material:
+## File content:
 
 1 [Leetcode](https://leetcode.com) <br />
 2 [Hackerearth](https://www.hackerearth.com)  <br />
@@ -51,3 +51,9 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 | Hanoi Tower | [Interview Question](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) |
 | 0169 majorityNum (3 solution contain)| [Leetcode question](https://leetcode.com/problems/majority-element/) |
 | 0283 move zeros(2 solution contain) | [Leetcode question](https://leetcode.com/problems/move-zeroes/) |
+
+## Machine Learning algorithm
+
+| Algorithm | Reference Material |
+| :-- | :-- |
+| Naive Bayes | [Use python to implement the NB](https://computational-communication.com/python-bayes/) <br /> [What is NB?](https://towardsdatascience.com/the-naive-bayes-classifier-e92ea9f47523) |
