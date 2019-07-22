@@ -2,6 +2,11 @@
 
 > This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code. 
 
+**Highly recommend developers who are using this repo use the search engine to help you guide through this repo because this repo sorted based on file name**
+
+*Mac user* : command + F + what file you want to look?<br />
+*Windows user*: windows sign + F + what file you want to look?
+
 
 ## Modern Roadmap for Front-end Developer
 
@@ -51,6 +56,7 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 | Hanoi Tower | [Interview Question](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) |
 | 0169 majorityNum (3 solution contain)| [Leetcode question](https://leetcode.com/problems/majority-element/) |
 | 0283 move zeros(2 solution contain) | [Leetcode question](https://leetcode.com/problems/move-zeroes/) |
+| LinkedListBasic.py | Linked List get element/ insert node/ delete node|
 
 ## Machine Learning algorithm
 
