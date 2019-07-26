@@ -57,6 +57,7 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 | 0169 majorityNum (3 solution contain)| [Leetcode question](https://leetcode.com/problems/majority-element/) |
 | 0283 move zeros(2 solution contain) | [Leetcode question](https://leetcode.com/problems/move-zeroes/) |
 | LinkedListBasic.py | Linked List get element/ insert node/ delete node|
+| Hashtable.py.py | Implement Hash table by using python list. No built-in method |
 
 ## Machine Learning algorithm
 
