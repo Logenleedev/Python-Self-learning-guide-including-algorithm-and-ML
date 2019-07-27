@@ -2,6 +2,12 @@
 
 > This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code. 
 
+What is include in this repo?
+
+1. Guidence to Full Stack web development
+2. Algorithm implement by using Python
+3. Machine learning tutorial
+
 **Highly recommend developers who are using this repo use the search engine to help you guide through this repo because this repo sorted based on file name**
 
 *Mac user* : command + F + what file you want to look?<br />
@@ -61,6 +67,17 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 
 ## Machine Learning algorithm
 
+*italic* represent implementation
+normal text style represent tutorial
+
 | Algorithm | Reference Material |
 | :-- | :-- |
+| Linear regression | [what is linear regression?](https://medium.com/@benaikumar2/simple-linear-regression-made-simple-43f2e60bdbd5)<br /> [what is r square?](https://medium.com/@benaikumar2/r-square-coefficient-of-determination-f4f3c23329d9) |
+| *Linear regression* | [regression implementation](/Sample-code/) |
 | Naive Bayes | [Use python to implement the NB](https://computational-communication.com/python-bayes/) <br /> [What is NB?](https://towardsdatascience.com/the-naive-bayes-classifier-e92ea9f47523) |
+
+## Machine learning project
+| Project Name | Description |
+| :-- | :-- |
+| Iris flower data analysis| [iris data analysis, datset is from UCDavis](Sample-code/irisdata) |
+| PM 2.5 | [Pm 2.5 data science project](Sample-code/Pm2.5) |
