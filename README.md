@@ -84,6 +84,33 @@ normal text style represent implementation example and coding challenge
 
 ## Machine Learning 
 
+### Statistics key concept
+
+- Descriptive Statistics
+  - How to analyze a chunk of data?
+    - Center
+    - Spread
+    - Shape
+    - Outliers <br />
+    Outlier < Q1 - 1.5 * IQR <br />
+            > Q3 + 1.5 * IQR
+  - Basic measurement concept
+    - mean
+    - median
+    - mode
+    - quartile including upper quartile and lower quartile
+    - deciles
+    - percent8ile
+    - frequency distribution
+    - Interquartile range(IQR)
+    - Standard deviation <br />
+     &nbsp; &nbsp; &nbsp;<img src="https://latex.codecogs.com/gif.latex?\sqrt[2]{\frac{\sum_{i=1}^{n}&space;(x_i&space;-&space;\bar{x}))}{n-1}}" title="\sqrt[2]{\frac{\sum_{i=1}^{n} (x_i - \bar{x}))}{n-1}}" /><br />
+    - z score
+     &nbsp; &nbsp; &nbsp;<img src="https://latex.codecogs.com/gif.latex?\frac{x&space;-&space;\mu}{\sigma}" title="\frac{x - \mu}{\sigma}" /><br />
+    
+  
+  
+
 **bold text** represent algorithm tutorial
 normal text style represent implementation example and coding challenge
 
