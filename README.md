@@ -5,6 +5,7 @@
   - [classes I have taken](#useful-course)
 
 
+***
 
 
 # Developer Guide for everyone
@@ -21,7 +22,6 @@ What is include in this repo?
 
 *Mac user* : command + F + what file you want to look?<br />
 *Windows user*: windows sign + F + what file you want to look?
-
 
 ## Modern Roadmap for Front-end Developer
 
@@ -42,6 +42,9 @@ https://aloha-ai.carrd.co
 https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY0ZGFiYzQ0ZGZmMmY1NjdjZTIyM2MwYWYwZTIzOTYxMDc0Y2Q2YzQzYWExYzI3OWJlOTdhMzgyM2EzNDk
 
 
+***
+
+
 ## Algorithm:
 
 1 [Leetcode](https://leetcode.com) <br />
@@ -54,8 +57,6 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 8 [Codesignal - interview tool](https://codesignal.com/)<br />
 9 [Sequoia Tree - UCBerkely CS self learining book](https://sequoia-tree.github.io/) <br />
 10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar) <br />
-
-
 
 **bold text** represent algorithm tutorial
 normal text style represent implementation example and coding challenge
@@ -75,6 +76,11 @@ normal text style represent implementation example and coding challenge
 | 0283 move zeros(2 solution contain) | [Leetcode question](https://leetcode.com/problems/move-zeroes/) |
 | **LinkedListBasic.py** | Linked List get element/ insert node/ delete node|
 | **Hashtable.py.py** | Implement Hash table by using python list. No built-in method |
+| **Stack and Queue** | [implementation notebook](Sample-code/Implementation%20of%20Stack%20and%20que.ipynb)|
+
+
+***
+
 
 ## Machine Learning 
 
@@ -92,6 +98,10 @@ normal text style represent implementation example and coding challenge
 | :-- | :-- |
 | Iris flower data analysis| [iris data analysis, datset is from UCDavis](Sample-code/irisdata) |
 | PM 2.5 | [Pm 2.5 data science project](Sample-code/Pm2.5) |
+
+
+***
+
 
 ## Useful Course
 
