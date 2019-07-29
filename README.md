@@ -1,3 +1,12 @@
+- Menu
+  - [Full Stack development guide for everyone](#modern-roadmap-for-front-end-developer)
+  - [algorithm implementation & coding challenge (Competitive programming practice)](#algorithm)
+  - [machine learning algorithm](#machine-learning)
+  - [classes I have taken](#useful-course)
+
+
+
+
 # Developer Guide for everyone
 
 > This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code. 
@@ -27,13 +36,13 @@ What is include in this repo?
 > Digital Media Platform for everyone. Topic range from *Technology*, *design*, *art*, and *enttertainment*
 
 **Website**: <br />
-https://aloha-pro.herokuapp.com/
+https://aloha-ai.carrd.co
 
 **Join Slack Channel**: <br />
 https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY0ZGFiYzQ0ZGZmMmY1NjdjZTIyM2MwYWYwZTIzOTYxMDc0Y2Q2YzQzYWExYzI3OWJlOTdhMzgyM2EzNDk
 
 
-## File content:
+## Algorithm:
 
 1 [Leetcode](https://leetcode.com) <br />
 2 [Hackerearth](https://www.hackerearth.com)  <br />
@@ -48,36 +57,44 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 
 
 
+**bold text** represent algorithm tutorial
+normal text style represent implementation example and coding challenge
 
 | File name | Algorithm contain |
 | :-- | :--|
-| Searching&SortingAlgorithm  |   Selection Sort % Bubble Sort % Insertion Sort % Merge Sort % Linear Search % Binary Search|
+| **Searching&SortingAlgorithm**  |   Selection Sort % Bubble Sort % Insertion Sort % Merge Sort % Linear Search % Binary Search|
 | removeDuplicate | [Leetcode question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
 | 0121 BuyAndSell Stock | Leetcode Question|
 | 0136 Single Nums | Leetcode Question |
 | Palindrome | Interview Question |
 | reverse Integer | [Leetcode question](https://leetcode.com/problems/reverse-integer/) |
-| quickSort | quick sort |
+| **quickSort** | quick sort |
 | 0155 minStack | [Leetcode question](https://leetcode.com/problems/min-stack/description/) |
-| Hanoi Tower | [Interview Question](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) |
+| **Hanoi Tower** | [Interview Question](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) |
 | 0169 majorityNum (3 solution contain)| [Leetcode question](https://leetcode.com/problems/majority-element/) |
 | 0283 move zeros(2 solution contain) | [Leetcode question](https://leetcode.com/problems/move-zeroes/) |
-| LinkedListBasic.py | Linked List get element/ insert node/ delete node|
-| Hashtable.py.py | Implement Hash table by using python list. No built-in method |
+| **LinkedListBasic.py** | Linked List get element/ insert node/ delete node|
+| **Hashtable.py.py** | Implement Hash table by using python list. No built-in method |
 
-## Machine Learning algorithm
+## Machine Learning 
 
-*italic* represent implementation
-normal text style represent tutorial
+**bold text** represent algorithm tutorial
+normal text style represent implementation example and coding challenge
 
 | Algorithm | Reference Material |
 | :-- | :-- |
-| Linear regression | [what is linear regression?](https://medium.com/@benaikumar2/simple-linear-regression-made-simple-43f2e60bdbd5)<br /> [what is r square?](https://medium.com/@benaikumar2/r-square-coefficient-of-determination-f4f3c23329d9) |
-| *Linear regression* | [regression implementation](/Sample-code/) |
-| Naive Bayes | [Use python to implement the NB](https://computational-communication.com/python-bayes/) <br /> [What is NB?](https://towardsdatascience.com/the-naive-bayes-classifier-e92ea9f47523) |
+| **Linear regression** | [what is linear regression?](https://medium.com/@benaikumar2/simple-linear-regression-made-simple-43f2e60bdbd5)<br /> [what is r square?](https://medium.com/@benaikumar2/r-square-coefficient-of-determination-f4f3c23329d9) |
+| **Linear regression** | [regression implementation](/Sample-code/) |
+| **Naive Bayes** | [Use python to implement the NB](https://computational-communication.com/python-bayes/) <br /> [What is NB?](https://towardsdatascience.com/the-naive-bayes-classifier-e92ea9f47523) |
 
 ## Machine learning project
 | Project Name | Description |
 | :-- | :-- |
 | Iris flower data analysis| [iris data analysis, datset is from UCDavis](Sample-code/irisdata) |
 | PM 2.5 | [Pm 2.5 data science project](Sample-code/Pm2.5) |
+
+## Useful Course
+
+[Introduction to Python Stanford](https://stanfordpython.com/)
+[Introduction to computer science Harvard](https://cs50.harvard.edu/college/2018/fall/)
+
