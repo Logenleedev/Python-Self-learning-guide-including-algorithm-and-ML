@@ -107,6 +107,7 @@ normal text style represent implementation example and coding challenge
      &nbsp; &nbsp; &nbsp;<img src="https://latex.codecogs.com/gif.latex?\sqrt[2]{\frac{\sum_{i=1}^{n}&space;(x_i&space;-&space;\bar{x}))}{n-1}}" title="\sqrt[2]{\frac{\sum_{i=1}^{n} (x_i - \bar{x}))}{n-1}}" /><br />
     - z score <br />
      &nbsp; &nbsp; &nbsp;<img src="https://latex.codecogs.com/gif.latex?\frac{x&space;-&space;\mu}{\sigma}" title="\frac{x - \mu}{\sigma}" /><br />
+    - [relationship between confidence interval and z score](https://www.mathsisfun.com/data/confidence-interval.html)
     
   
   
