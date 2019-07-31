@@ -137,3 +137,10 @@ normal text style represent implementation example and coding challenge
 [Introduction to Python Stanford](https://stanfordpython.com/)<br />
 [Introduction to computer science Harvard](https://cs50.harvard.edu/college/2018/fall/)
 
+
+***
+### resources
+
+[Math symbol list](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)
+[online latex editor](https://www.codecogs.com/latex/eqneditor.php)
+
