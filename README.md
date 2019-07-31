@@ -119,6 +119,7 @@ normal text style represent implementation example and coding challenge
 | :-- | :-- |
 | **Linear regression** | [what is linear regression?](https://medium.com/@benaikumar2/simple-linear-regression-made-simple-43f2e60bdbd5)<br /> [what is r square?](https://medium.com/@benaikumar2/r-square-coefficient-of-determination-f4f3c23329d9) |
 | **Linear regression** | [regression implementation](/Sample-code/) |
+| **Logistic regression** | [what is logistic regression?](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python) |
 | **Naive Bayes** | [Use python to implement the NB](https://computational-communication.com/python-bayes/) <br /> [What is NB?](https://towardsdatascience.com/the-naive-bayes-classifier-e92ea9f47523) |
 
 ## Machine learning project
