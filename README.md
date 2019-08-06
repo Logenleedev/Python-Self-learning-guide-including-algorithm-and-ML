@@ -127,6 +127,7 @@ normal text style represent implementation example and coding challenge
 | :-- | :-- |
 | Iris flower data analysis| [iris data analysis, datset is from UCDavis](Sample-code/irisdata) |
 | PM 2.5 | [Pm 2.5 data science project](Sample-code/Pm2.5) |
+|house price regression| [answer repo. R square number is 0.85](https://github.com/riederleeDEV/House-price-regression/tree/master) |
 
 
 ***
