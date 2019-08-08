@@ -1,5 +1,6 @@
 - Menu
   - [Full Stack development guide for everyone](#modern-roadmap-for-front-end-developer)
+  - [Introduction to Python](#introduction-to-python)
   - [algorithm implementation & coding challenge (Competitive programming practice)](#algorithm)
   - [machine learning algorithm](#machine-learning)
   - [classes I have taken](#useful-course)
@@ -43,6 +44,9 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 
 
 ***
+## Introduction to Python
+
+[My past repo in CS41 Stanford -> Introduction to programming in Python](https://github.com/riederleeDEV/CS41-Stanford)
 
 
 ## Algorithm:
