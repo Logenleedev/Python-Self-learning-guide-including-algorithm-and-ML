@@ -140,8 +140,8 @@ normal text style represent implementation example and coding challenge
 
 ## Useful Course
 
-[Introduction to Python Stanford](https://stanfordpython.com/)<br />
-[Introduction to computer science Harvard](https://cs50.harvard.edu/college/2018/fall/)
+[Introduction to Python Stanford CS41](https://stanfordpython.com/)<br />
+[Introduction to computer science Harvard CS50](https://cs50.harvard.edu/college/2018/fall/)
 
 
 ***
