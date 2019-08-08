@@ -44,9 +44,10 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 
 
 ***
-## Introduction to Python
+## Introduction to Computer Science
 
 [My past repo in CS41 Stanford -> Introduction to programming in Python](https://github.com/riederleeDEV/CS41-Stanford)
+[HTTP/HTTPS -> Introduction to Network from Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking/Winter2014/about)
 
 
 ## Algorithm:
