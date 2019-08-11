@@ -141,7 +141,7 @@ normal text style represent implementation example and coding challenge
 ## Useful Course
 
 [Introduction to Python Stanford CS41](https://stanfordpython.com/)<br />
-[Introduction to computer science Harvard CS50](https://cs50.harvard.edu/college/2018/fall/)
+[Introduction to computer science Harvard CS50](https://cs50.harvard.edu/college/2018/fall/)<br />
 [Introduction to R from Datacamp](https://datacamp.com/courses/free-introduction-to-r)
 
 ***
