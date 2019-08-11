@@ -11,7 +11,7 @@
 
 # Developer Guide for everyone
 
-> This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code. 
+> This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code.
 
 What is include in this repo?
 
@@ -87,7 +87,7 @@ normal text style represent implementation example and coding challenge
 ***
 
 
-## Machine Learning 
+## Machine Learning
 
 ### Statistics key concept
 
@@ -113,9 +113,9 @@ normal text style represent implementation example and coding challenge
     - z score <br />
      &nbsp; &nbsp; &nbsp;<img src="https://latex.codecogs.com/gif.latex?\frac{x&space;-&space;\mu}{\sigma}" title="\frac{x - \mu}{\sigma}" /><br />
     - [relationship between confidence interval and z score](https://www.mathsisfun.com/data/confidence-interval.html)
-    
-  
-  
+
+
+
 
 **bold text** represent algorithm tutorial
 normal text style represent implementation example and coding challenge
@@ -124,7 +124,7 @@ normal text style represent implementation example and coding challenge
 | :-- | :-- |
 | **Linear regression** | [what is linear regression?](https://medium.com/@benaikumar2/simple-linear-regression-made-simple-43f2e60bdbd5)<br /> [what is r square?](https://medium.com/@benaikumar2/r-square-coefficient-of-determination-f4f3c23329d9) |
 | **Linear regression** | [regression implementation](/Sample-code/) |
-| **Logistic regression** | [what is logistic regression?](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python) <br /> [Math definition of LR](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/lectureHandouts/220-logistic-regression.pdf)| 
+| **Logistic regression** | [what is logistic regression?](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python) <br /> [Math definition of LR](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/lectureHandouts/220-logistic-regression.pdf)|
 | **Naive Bayes** | [Use python to implement the NB](https://computational-communication.com/python-bayes/) <br /> [What is NB?](https://towardsdatascience.com/the-naive-bayes-classifier-e92ea9f47523) |
 
 ## Machine learning project
@@ -142,7 +142,7 @@ normal text style represent implementation example and coding challenge
 
 [Introduction to Python Stanford CS41](https://stanfordpython.com/)<br />
 [Introduction to computer science Harvard CS50](https://cs50.harvard.edu/college/2018/fall/)
-
+[Introduction to R from Datacamp](https://datacamp.com/courses/free-introduction-to-r)
 
 ***
 ### resources
