@@ -86,7 +86,7 @@ normal text style represent implementation example and coding challenge
 | **LinkedListBasic.py** | Linked List get element/ insert node/ delete node|
 | **Hashtable.py.py** | Implement Hash table by using python list. No built-in method |
 | **Stack and Queue** | [implementation notebook](Sample-code/Implementation%20of%20Stack%20and%20que.ipynb)|
-
+| **uglyNumber.py**| [Leetcode question](https://leetcode.com/problems/ugly-number/) |
 
 ***
 
