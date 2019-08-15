@@ -87,8 +87,10 @@ normal text style represent implementation example and coding challenge
 | **Hashtable.py.py** | Implement Hash table by using python list. No built-in method |
 | **Stack and Queue** | [implementation notebook](Sample-code/Implementation%20of%20Stack%20and%20que.ipynb)|
 | **uglyNumber.py**| [Leetcode question](https://leetcode.com/problems/ugly-number/) |
+| **PowerOfFour.py** | [Leetcode question](https://leetcode.com/problems/power-of-four/) |
 
-***
+
+                    ***
 
 
 ## Machine Learning
