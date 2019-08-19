@@ -67,7 +67,7 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 9 [Sequoia Tree - UCBerkely CS self learining book](https://sequoia-tree.github.io/) <br />
 10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar) <br />
 
-**bold text** represent algorithm tutorial
+**bold text** represent algorithm tutorial <br />
 normal text style represent implementation example and coding challenge
 
 | File name | Algorithm contain |
@@ -84,10 +84,11 @@ normal text style represent implementation example and coding challenge
 | 0169 majorityNum (3 solution contain)| [Leetcode question](https://leetcode.com/problems/majority-element/) |
 | 0283 move zeros(2 solution contain) | [Leetcode question](https://leetcode.com/problems/move-zeroes/) |
 | **LinkedListBasic.py** | Linked List get element/ insert node/ delete node|
-| **Hashtable.py.py** | Implement Hash table by using python list. No built-in method |
+| **Hashtable.py** | Implement Hash table by using python list. No built-in method |
 | **Stack and Queue** | [implementation notebook](Sample-code/Implementation%20of%20Stack%20and%20que.ipynb)|
-| **uglyNumber.py**| [Leetcode question](https://leetcode.com/problems/ugly-number/) |
+| uglyNumber.py | [Leetcode question](https://leetcode.com/problems/ugly-number/) |
 | **PowerOfFour.py** | [Leetcode question](https://leetcode.com/problems/power-of-four/) |
+| TwoSum.py | [Leetcode question](https://leetcode.com/problems/two-sum/) | 
 
 
                     ***
