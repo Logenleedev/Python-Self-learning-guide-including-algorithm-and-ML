@@ -15,13 +15,13 @@
 
 # Developer Guide for everyone
 
-> This Repo is created because I want to share some algorithm practice experience to developers. Feel free to Fork and contribute code.
+> This Repo is created because I want to share some algorithm practice experience to all developers. Feel free to fork and contribute code.
 
 What is include in this repo?
 
 1. Guidence to Full Stack web development
 2. Algorithm implement by using Python
-3. Machine learning tutorial
+3. Machine learning and deep learning tutorial
 
 **Highly recommend developers who are using this repo use the search engine to help you guide through this repo because this repo sorted based on file name**
 
@@ -68,7 +68,7 @@ https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY
 10 [UCBerkely Self Pace Programming Language](https://selfpaced.bitbucket.io/#/c/calendar) <br />
 
 **bold text** represent algorithm tutorial <br />
-normal text style represent implementation example and coding challenge
+normal text style represent coding challenge solution
 
 | File name | Algorithm contain |
 | :-- | :--|
@@ -89,6 +89,7 @@ normal text style represent implementation example and coding challenge
 | uglyNumber.py | [Leetcode question](https://leetcode.com/problems/ugly-number/) |
 | **PowerOfFour.py** | [Leetcode question](https://leetcode.com/problems/power-of-four/) |
 | TwoSum.py | [Leetcode question](https://leetcode.com/problems/two-sum/) | 
+| **BinaryTree.py**| Tree data structure |
 
 
                     ***
@@ -125,7 +126,7 @@ normal text style represent implementation example and coding challenge
 
 
 **bold text** represent algorithm tutorial
-normal text style represent implementation example and coding challenge
+normal text style represent coding challenge solution/machine learning and deep learning implementation
 
 | Algorithm | Reference Material |
 | :-- | :-- |
