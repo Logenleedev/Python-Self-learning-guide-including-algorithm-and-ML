@@ -73,11 +73,11 @@ normal text style represent coding challenge solution
 | File name | Algorithm contain |
 | :-- | :--|
 | **Searching&SortingAlgorithm**  |   Selection Sort % Bubble Sort % Insertion Sort % Merge Sort % Linear Search % Binary Search|
-| removeDuplicate | [Leetcode question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
+| 0026 removeDuplicate | [Leetcode question](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
 | 0121 BuyAndSell Stock | Leetcode Question|
 | 0136 Single Nums | Leetcode Question |
 | Palindrome | Interview Question |
-| reverse Integer | [Leetcode question](https://leetcode.com/problems/reverse-integer/) |
+| 0007 reverse Integer | [Leetcode question](https://leetcode.com/problems/reverse-integer/) |
 | **quickSort** | quick sort |
 | 0155 minStack | [Leetcode question](https://leetcode.com/problems/min-stack/description/) |
 | **Hanoi Tower** | [Interview Question](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/) |
@@ -86,9 +86,9 @@ normal text style represent coding challenge solution
 | **LinkedListBasic.py** | Linked List get element/ insert node/ delete node|
 | **Hashtable.py** | Implement Hash table by using python list. No built-in method |
 | **Stack and Queue** | [implementation notebook](Sample-code/Implementation%20of%20Stack%20and%20que.ipynb)|
-| uglyNumber.py | [Leetcode question](https://leetcode.com/problems/ugly-number/) |
+| 0263 uglyNumber.py | [Leetcode question](https://leetcode.com/problems/ugly-number/) |
 | **PowerOfFour.py** | [Leetcode question](https://leetcode.com/problems/power-of-four/) |
-| TwoSum.py | [Leetcode question](https://leetcode.com/problems/two-sum/) | 
+| 0001 TwoSum.py | [Leetcode question](https://leetcode.com/problems/two-sum/) | 
 | **BinaryTree.py**| Tree data structure |
 
 
