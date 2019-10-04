@@ -1,6 +1,6 @@
 - Menu
   - [Full Stack development guide for everyone](#modern-roadmap-for-front-end-developer)
-  - [Introduction to Python](#introduction-to-python)
+  - [Introduction to Python](#algorithm)
   - [algorithm implementation & coding challenge (Competitive programming practice)](#algorithm)
   - [machine learning algorithm](#machine-learning)
   - [classes I have taken](#useful-course)
@@ -141,10 +141,24 @@ normal text style represent coding challenge solution/machine learning and deep 
 | Iris flower data analysis| [iris data analysis, datset is from UCDavis](Sample-code/irisdata) |
 | PM 2.5 | [Pm 2.5 data science project](Sample-code/Pm2.5) |
 |house price regression| [answer repo. R square number is 0.85](https://github.com/riederleeDEV/House-price-regression/tree/master) |
+| Spotify Top 100 song tracks analysis use R (group work)| [final report](https://docs.google.com/document/d/1N7mgSK4OVxoDSl-R_wfbTTIZoQtobBYfvjl9xj619Dk/edit?usp=sharing) |
+| Sweden rune stone R analysis (group work)| [final report](https://docs.google.com/document/d/1I6xL42B3kbmr-GisER8ty8lb6pKfWHc05GWuyOazDRs/edit?usp=sharing) |
+
+## Deep learning
+| Deep Learning tutorial | Reference Material |
+| :-- | :-- |
+|   CNN   | [beginne's guide to CNN](https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8)   |
+
+>**Useful Website for deep learning**<br />
+[Deep learning cook book](https://www.deeplearningbook.org/) <br />
+[deeplearning.ai Andrew NG from Coursera](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)<br />
+[UCBerkely Machine learning club](https://tjmachinelearning.com/schedule/1819) <br />
+[CS 229 Stanford Machine learning](https://tjmachinelearning.com/schedule/1819) <br />
+[CS 231 Stanford CNN](http://cs231n.stanford.edu/)
 
 
 ***
-
+***
 
 ## Useful Course
 
