@@ -154,7 +154,7 @@ normal text style represent coding challenge solution/machine learning and deep 
 [deeplearning.ai Andrew NG from Coursera](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)<br />
 [UCBerkely Machine learning club](https://tjmachinelearning.com/schedule/1819) <br />
 [CS 229 Stanford Machine learning](https://tjmachinelearning.com/schedule/1819) <br />
-[CS 231 Stanford CNN](http://cs231n.stanford.edu/)
+[CS 231 Stanford CNN](http://cs231n.stanford.edu/)<br />
 [CS230 deep learning Stanford](https://cs230.stanford.edu/syllabus/)
 
 ***
