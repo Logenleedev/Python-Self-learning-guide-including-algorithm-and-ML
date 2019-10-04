@@ -90,6 +90,7 @@ normal text style represent coding challenge solution
 | **PowerOfFour.py** | [Leetcode question](https://leetcode.com/problems/power-of-four/) |
 | 0001 TwoSum.py | [Leetcode question](https://leetcode.com/problems/two-sum/) |
 | **BinaryTree.py**| Tree data structure |
+| 0349 InterSectionArray.py | [Leetcode question](https://leetcode.com/problems/intersection-of-two-arrays/)|
 
 
                     ***
