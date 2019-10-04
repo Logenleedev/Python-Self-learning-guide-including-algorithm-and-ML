@@ -88,7 +88,7 @@ normal text style represent coding challenge solution
 | **Stack and Queue** | [implementation notebook](Sample-code/Implementation%20of%20Stack%20and%20que.ipynb)|
 | 0263 uglyNumber.py | [Leetcode question](https://leetcode.com/problems/ugly-number/) |
 | **PowerOfFour.py** | [Leetcode question](https://leetcode.com/problems/power-of-four/) |
-| 0001 TwoSum.py | [Leetcode question](https://leetcode.com/problems/two-sum/) | 
+| 0001 TwoSum.py | [Leetcode question](https://leetcode.com/problems/two-sum/) |
 | **BinaryTree.py**| Tree data structure |
 
 
@@ -155,7 +155,7 @@ normal text style represent coding challenge solution/machine learning and deep 
 [UCBerkely Machine learning club](https://tjmachinelearning.com/schedule/1819) <br />
 [CS 229 Stanford Machine learning](https://tjmachinelearning.com/schedule/1819) <br />
 [CS 231 Stanford CNN](http://cs231n.stanford.edu/)
-
+[CS230 deep learning Stanford](https://cs230.stanford.edu/syllabus/)
 
 ***
 ***
