@@ -135,6 +135,7 @@ normal text style represent coding challenge solution/machine learning and deep 
 | **Linear regression** | [regression implementation](/Sample-code/) |
 | **Logistic regression** | [what is logistic regression?](https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python) <br /> [Math definition of LR](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/lectureHandouts/220-logistic-regression.pdf)|
 | **Naive Bayes** | [Use python to implement the NB](https://computational-communication.com/python-bayes/) <br /> [What is NB?](https://towardsdatascience.com/the-naive-bayes-classifier-e92ea9f47523) |
+|   **SVM**   |   [UC Berkely SVM tutorial](https://tjmachinelearning.com/lectures/1819/svm/)    |
 
 ## Machine learning project
 | Project Name | Description |
