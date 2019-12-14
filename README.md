@@ -36,9 +36,6 @@ What is include in this repo?
 
 ![](https://miro.medium.com/max/2000/1*8sjdGRThKBI46WOqoaYmXg.png)
 
-## Featured Personal Project by 10,000+ developers:
-
-> Digital Media Platform for everyone. Topic range from *Technology*, *design*, *art*, and *enttertainment*
 
 
 ***
