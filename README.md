@@ -40,12 +40,6 @@ What is include in this repo?
 
 > Digital Media Platform for everyone. Topic range from *Technology*, *design*, *art*, and *enttertainment*
 
-**Website**: <br />
-https://aloha-ai.carrd.co
-
-**Join Slack Channel**: <br />
-https://join.slack.com/t/aloha-zjh1934/shared_invite/enQtNjc1Mzk5OTA4OTk1LTM2ZmY0ZGFiYzQ0ZGZmMmY1NjdjZTIyM2MwYWYwZTIzOTYxMDc0Y2Q2YzQzYWExYzI3OWJlOTdhMzgyM2EzNDk
-
 
 ***
 ## Introduction to Computer Science
