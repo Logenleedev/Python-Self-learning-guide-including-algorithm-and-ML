@@ -7,10 +7,12 @@ Selection Sort O(n^2)
 '''
 def SelectionSort(Array):
     for i in range(len(Array)):
-        for j in range(i+1,len(Array)):
-            if Array[i]>Array[j]:
-                Array[i],Array[j] = Array[j],Array[i]
-    return Array
+        if (i != len(Array)-1): 
+            for j in range(i+1,len(Array)):
+                if Array[i]>Array[j]:
+                    Array[i],Array[j] = Array[j],Array[i]
+        else:
+            return Array
 
 
 
