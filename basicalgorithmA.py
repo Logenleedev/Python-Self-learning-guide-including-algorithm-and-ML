@@ -5,14 +5,14 @@ A = [64,25,12,22,11,37,98,47,58,20,98]
 '''
 Selection Sort O(n^2)
 '''
-def SelectionSort(Array):
-    for i in range(len(Array)):
-        if (i != len(Array)-1): 
-            for j in range(i+1,len(Array)):
-                if Array[i]>Array[j]:
-                    Array[i],Array[j] = Array[j],Array[i]
-        else:
-            return Array
+def selectionSort(nums):
+    for i in range(len(nums)-1):
+        minValue_idx = i
+        for j in range(i+1,len(nums)):
+            if nums[j] < nums[minValue_idx]:
+                minValue_idx = j
+        nums[i], nums[minValue_idx] = nums[minValue_idx], nums[i]
+    return nums
 
 
 
